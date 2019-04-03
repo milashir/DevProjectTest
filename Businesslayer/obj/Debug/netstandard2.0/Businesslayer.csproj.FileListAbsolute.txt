@@ -1,0 +1,14 @@
+C:\Users\milas\Desktop\EF1-master\EF1-master\Businesslayer\bin\Debug\netstandard2.0\Businesslayer.deps.json
+C:\Users\milas\Desktop\EF1-master\EF1-master\Businesslayer\bin\Debug\netstandard2.0\Businesslayer.dll
+C:\Users\milas\Desktop\EF1-master\EF1-master\Businesslayer\bin\Debug\netstandard2.0\Businesslayer.pdb
+C:\Users\milas\Desktop\EF1-master\EF1-master\Businesslayer\obj\Debug\netstandard2.0\Businesslayer.csprojAssemblyReference.cache
+C:\Users\milas\Desktop\EF1-master\EF1-master\Businesslayer\obj\Debug\netstandard2.0\Businesslayer.csproj.CoreCompileInputs.cache
+C:\Users\milas\Desktop\EF1-master\EF1-master\Businesslayer\obj\Debug\netstandard2.0\Businesslayer.AssemblyInfoInputs.cache
+C:\Users\milas\Desktop\EF1-master\EF1-master\Businesslayer\obj\Debug\netstandard2.0\Businesslayer.AssemblyInfo.cs
+C:\Users\milas\Desktop\EF1-master\EF1-master\Businesslayer\obj\Debug\netstandard2.0\Businesslayer.dll
+C:\Users\milas\Desktop\EF1-master\EF1-master\Businesslayer\obj\Debug\netstandard2.0\Businesslayer.pdb
+C:\Users\milas\Desktop\EF1-master\EF1-master\Businesslayer\bin\Debug\netstandard2.0\DataLayer.dll
+C:\Users\milas\Desktop\EF1-master\EF1-master\Businesslayer\bin\Debug\netstandard2.0\EnitityLayer.dll
+C:\Users\milas\Desktop\EF1-master\EF1-master\Businesslayer\bin\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\milas\Desktop\EF1-master\EF1-master\Businesslayer\bin\Debug\netstandard2.0\EnitityLayer.pdb
+C:\Users\milas\Desktop\EF1-master\EF1-master\Businesslayer\obj\Debug\netstandard2.0\Businesslayer.csproj.CopyComplete
