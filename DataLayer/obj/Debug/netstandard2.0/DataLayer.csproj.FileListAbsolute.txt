@@ -1,0 +1,12 @@
+C:\Users\milas\Desktop\EF1-master\EF1-master\DataLayer\bin\Debug\netstandard2.0\DataLayer.deps.json
+C:\Users\milas\Desktop\EF1-master\EF1-master\DataLayer\bin\Debug\netstandard2.0\DataLayer.dll
+C:\Users\milas\Desktop\EF1-master\EF1-master\DataLayer\bin\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\milas\Desktop\EF1-master\EF1-master\DataLayer\obj\Debug\netstandard2.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\milas\Desktop\EF1-master\EF1-master\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\milas\Desktop\EF1-master\EF1-master\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfo.cs
+C:\Users\milas\Desktop\EF1-master\EF1-master\DataLayer\obj\Debug\netstandard2.0\DataLayer.dll
+C:\Users\milas\Desktop\EF1-master\EF1-master\DataLayer\obj\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\milas\Desktop\EF1-master\EF1-master\DataLayer\bin\Debug\netstandard2.0\EnitityLayer.dll
+C:\Users\milas\Desktop\EF1-master\EF1-master\DataLayer\bin\Debug\netstandard2.0\EnitityLayer.pdb
+C:\Users\milas\Desktop\EF1-master\EF1-master\DataLayer\obj\Debug\netstandard2.0\DataLayer.csprojAssemblyReference.cache
+C:\Users\milas\Desktop\EF1-master\EF1-master\DataLayer\obj\Debug\netstandard2.0\DataLayer.csproj.CopyComplete
