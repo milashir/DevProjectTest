@@ -1,0 +1,9 @@
+C:\Users\milas\Desktop\EF1-master\EF1-master\EnitityLayer\bin\Debug\netstandard2.0\EnitityLayer.deps.json
+C:\Users\milas\Desktop\EF1-master\EF1-master\EnitityLayer\bin\Debug\netstandard2.0\EnitityLayer.dll
+C:\Users\milas\Desktop\EF1-master\EF1-master\EnitityLayer\bin\Debug\netstandard2.0\EnitityLayer.pdb
+C:\Users\milas\Desktop\EF1-master\EF1-master\EnitityLayer\obj\Debug\netstandard2.0\EnitityLayer.csprojAssemblyReference.cache
+C:\Users\milas\Desktop\EF1-master\EF1-master\EnitityLayer\obj\Debug\netstandard2.0\EnitityLayer.csproj.CoreCompileInputs.cache
+C:\Users\milas\Desktop\EF1-master\EF1-master\EnitityLayer\obj\Debug\netstandard2.0\EnitityLayer.AssemblyInfoInputs.cache
+C:\Users\milas\Desktop\EF1-master\EF1-master\EnitityLayer\obj\Debug\netstandard2.0\EnitityLayer.AssemblyInfo.cs
+C:\Users\milas\Desktop\EF1-master\EF1-master\EnitityLayer\obj\Debug\netstandard2.0\EnitityLayer.dll
+C:\Users\milas\Desktop\EF1-master\EF1-master\EnitityLayer\obj\Debug\netstandard2.0\EnitityLayer.pdb
